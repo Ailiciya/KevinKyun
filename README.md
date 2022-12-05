@@ -8,7 +8,7 @@
 - Name **Kevin Rizki Irawan**
 
 - Live in **Yogyakarta, Indonesia**
-
+  
 - A college student at **Amikom University**
 
 - Good with **C++** [there will be additions]
