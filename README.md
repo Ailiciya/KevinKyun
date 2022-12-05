@@ -21,8 +21,10 @@
 <img src="https://user-images.githubusercontent.com/114798157/205713526-9a9930bc-392f-494e-a2e1-f846aa0f0afa.png" width="300" align="right" />
 <br/>
   
-![Github b](https://user-images.githubusercontent.com/114798157/205721585-6bfb0fc6-9e8a-4497-9ef9-f6406470caa3.png)
-
+<img src="https://user-images.githubusercontent.com/114798157/205721849-1435e478-e5fc-47d8-93fb-31def61889ed.png" width="500" />
+<br/>
+<br/>
+ 
   
 [Instagram](https://www.instagram.com/kevin.r.i)
   
