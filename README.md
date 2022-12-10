@@ -37,6 +37,8 @@
 <img src="https://user-images.githubusercontent.com/114798157/205717375-7eb9f253-bb50-424b-9731-b5611eec3fcd.png" width="500" /><br/>
   
 <sub> *“aku telah sadar kalo diriku gak seburuk apa yang ku pikirkan.” – Kevin* </sub>
+  
+<sub> *“Meeting you was one of the best times in my life, I mean you show me **SHOMETHING** I've never felt before, you truly made me fall in love with u, without even trying.”* </sub>
 <!--
 
 -->
