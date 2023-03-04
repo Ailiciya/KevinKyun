@@ -1,45 +1,41 @@
-<div>
-<img src="https://user-images.githubusercontent.com/114798157/205714504-8612abfc-1908-4e70-b97a-77d38550c65a.png" width="300" align="right" />
-<br/>
-<img src="https://user-images.githubusercontent.com/114798157/205709102-2fe57341-745f-45ee-af50-edc8dfa9f398.png" width="500" />
-<br/>
-<br/>
-  
-- Name **Kevin Rizki Irawan**
+<p align="center"><a href=""><img width="80%" alt="" src="./assets/gh-readme-header.png" /></a></p>
 
-- Live in **Yogyakarta, Indonesia**
-  
-- A college student at **Amikom University**
-
-- Good with **C++** [there will be additions]
-
-- Have experience with **Photoshop**
-  
-- Understand **Bahasa (Native), English (Fluent), Español (Just a bit)**
+<br />
 
 
-<img src="https://user-images.githubusercontent.com/114798157/205713526-9a9930bc-392f-494e-a2e1-f846aa0f0afa.png" width="300" align="right" />
-<br/>
-  
-<img src="https://user-images.githubusercontent.com/114798157/205721849-1435e478-e5fc-47d8-93fb-31def61889ed.png" width="500" />
-<br/>
-<br/>
- 
-  
-[Instagram](https://www.instagram.com/kevin.r.i)
-  
-  [Twitter](https://twitter.com/kevin_kyun)
-  
-  [Steam](https://steamcommunity.com/id/kevinkyun/)
-  
 
-<br/>
-<img src="https://user-images.githubusercontent.com/114798157/205717375-7eb9f253-bb50-424b-9731-b5611eec3fcd.png" width="500" /><br/>
-  
-<sub> *“aku telah sadar kalo diriku gak seburuk apa yang ku pikirkan.” – Kevin* </sub>
-  
-<sub> *“Meeting you was one of the best times in my life, I mean you show me **SHOMETHING** I've never felt before, you truly made me fall in love with u, without even trying.”* </sub>
-<!--
+**About me**
 
--->
-</div>
+- 👨‍🎓A college student at [University of Amikom](https://home.amikom.ac.id/)
+
+- 📑I'm Kevin
+
+- ❤I love playing games and watch anime
+
+- 💬 Ask me about anything [Discord](https://discordapp.com/users/329766075778465793)
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/kevinkyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinkyun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/kevinkyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinkyun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+
+-
+
+
+
+
+<br />
+<br />
+
+<a href="https://twitter.com/kevin_kyun">
+  <img align="right" alt="Kevin | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
