@@ -9,7 +9,7 @@
 
 ### Hi!👋 I'm Kevin🍊
 
-**Programmer and Gamer** 
+**Just Kevin** 
 <br>
 <br>
 <br>
